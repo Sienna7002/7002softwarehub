@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Downloads</title>
+    <link>file://localhost/Users/seventhousandandtwo/Sites/dlcntr/7002_Software_center/Downloads</link>
+    <description></description>
+    <item>
+      <title>7002 Bundle</title>
+      <link>file://localhost/Users/seventhousandandtwo/Sites/dlcntr/7002_Software_center/Downloads/Entries/2023/3/23_7002_Bundle.html</link>
+      <guid isPermaLink="false">53c85587-0d21-49df-bd46-37890151b38f</guid>
+      <pubDate>Thu, 23 Mar 2023 17:14:55 +0000</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/seventhousandandtwo/Sites/dlcntr/7002_Software_center/Downloads/Entries/2023/3/23_7002_Bundle.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Specifier</title>
+      <link>file://localhost/Users/seventhousandandtwo/Sites/dlcntr/7002_Software_center/Downloads/Entries/2023/3/22_Specifier.html</link>
+      <guid isPermaLink="false">c5f9d7db-5fc1-4a80-8221-8fd94e32a79c</guid>
+      <pubDate>Wed, 22 Mar 2023 17:45:37 +0000</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/seventhousandandtwo/Sites/dlcntr/7002_Software_center/Downloads/Entries/2023/3/22_Specifier.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, d MMMM yyyy</iweb:dateFormat>
+    <iweb:baseURL>file://localhost/Users/seventhousandandtwo/Sites/dlcntr/7002_Software_center/Downloads</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Legacy Software</title>
+    <link>file://localhost/Users/seventhousandandtwo/Sites/dlcntr/7002_Software_center/Legacy_Software</link>
+    <description>Disclaimer:
+Software listed in this section is no longer supported, this means no new releases will be released.</description>
+    <item>
+      <title>Windows Vierra (Milestone 5)</title>
+      <link>file://localhost/Users/seventhousandandtwo/Sites/dlcntr/7002_Software_center/Legacy_Software/Entries/2023/3/23_Windows_Vierra_%28Milestone_5%29.html</link>
+      <guid isPermaLink="false">694baeac-78c1-484d-8234-7c42c75e2bb6</guid>
+      <pubDate>Thu, 23 Mar 2023 17:01:30 +0000</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/seventhousandandtwo/Sites/dlcntr/7002_Software_center/Legacy_Software/Entries/2023/3/23_Windows_Vierra_%28Milestone_5%29.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>VEKAI (Vista Extended Kernel Automatic Installer)</title>
+      <link>file://localhost/Users/seventhousandandtwo/Sites/dlcntr/7002_Software_center/Legacy_Software/Entries/2023/3/23_Day_of_longboarding.html</link>
+      <guid isPermaLink="false">6542d3ea-f49d-4ae7-a9e5-b2eeb8590a36</guid>
+      <pubDate>Thu, 23 Mar 2023 16:24:38 +0000</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/seventhousandandtwo/Sites/dlcntr/7002_Software_center/Legacy_Software/Entries/2023/3/23_Day_of_longboarding.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, d MMMM yyyy</iweb:dateFormat>
+    <iweb:baseURL>file://localhost/Users/seventhousandandtwo/Sites/dlcntr/7002_Software_center/Legacy_Software</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>
