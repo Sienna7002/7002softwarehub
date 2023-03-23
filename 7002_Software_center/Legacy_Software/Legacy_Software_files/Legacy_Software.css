@@ -1,13 +1,13 @@
 .paragraph_style {
-    color: rgb(255, 255, 255);
-    font-family: 'Helvetica-Bold', 'Helvetica', 'Arial', sans-serif;
-    font-size: 72px;
+    color: rgb(0, 0, 0);
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    font-size: 55px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 700;
     letter-spacing: 0;
-    line-height: 86px;
+    line-height: 64px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -20,6 +20,54 @@
     text-indent: 0px;
     text-transform: none;
 }
+.paragraph_style_1 {
+    color: rgb(255, 38, 0);
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    font-size: 22px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 31px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_2 {
+    color: rgb(0, 0, 0);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
 .style_SkipStroke {
     background: transparent;
     opacity: 1.00;
@@ -28,21 +76,39 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_SkipStroke_2 {
-    background: transparent;
+.Body {
+    color: rgb(88, 77, 77);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
     opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
 }
 .Normal {
     padding: 4px;
 }
-.Normal_External_630_27 {
+.Normal_External_628_109 {
     position: relative;
 }
-.Normal_External_417_94 {
+.Normal_External_631_70 {
     position: relative;
 }
 .Title {
-    color: rgb(255, 255, 255);
+    color: rgb(167, 167, 167);
     font-family: 'Arial-BoldMT', 'Arial', sans-serif;
     font-size: 36px;
     font-stretch: normal;
@@ -76,11 +142,11 @@
     opacity: 1.00;
 }
 #widget1 a:visited {
-    color: rgb(255, 255, 255);
+    color: rgb(121, 121, 121);
     text-decoration: underline;
 }
 #widget1 .Summary_Comment {
-    color: rgb(255, 255, 255);
+    color: rgb(88, 77, 77);
     font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 15px;
     font-stretch: normal;
@@ -97,11 +163,11 @@
     text-transform: none;
 }
 #widget0 a:visited {
-    color: rgb(255, 255, 255);
+    color: rgb(121, 121, 121);
     text-decoration: underline;
 }
 #widget1 .Summary_Date {
-    color: rgb(255, 255, 255);
+    color: rgb(88, 77, 77);
     font-family: 'Arial-BoldMT', 'Arial', sans-serif;
     font-size: 13px;
     font-stretch: normal;
@@ -122,7 +188,7 @@
     line-height: 1px;
 }
 #widget1 a:hover {
-    color: rgb(221, 221, 221);
+    color: rgb(0, 0, 0);
     text-decoration: underline;
 }
 .tinyText {
@@ -130,13 +196,13 @@
     line-height: 1px;
 }
 #widget1 .Summary_Title {
-    color: rgb(255, 255, 255);
-    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    color: rgb(88, 77, 77);
+    font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 20px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: 700;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 23px;
     margin-bottom: 0px;
@@ -147,7 +213,7 @@
     text-transform: none;
 }
 #widget1 .Summary_Read_More {
-    color: rgb(255, 255, 255);
+    color: rgb(88, 77, 77);
     font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 15px;
     font-stretch: normal;
@@ -164,11 +230,11 @@
     text-transform: none;
 }
 #widget0 a {
-    color: rgb(255, 255, 255);
+    color: rgb(88, 77, 77);
     text-decoration: underline;
 }
 #widget0 a:hover {
-    color: rgb(221, 221, 221);
+    color: rgb(0, 0, 0);
     text-decoration: underline;
 }
 .bumper {
@@ -176,11 +242,11 @@
     line-height: 1px;
 }
 #widget1 a {
-    color: rgb(255, 255, 255);
+    color: rgb(88, 77, 77);
     text-decoration: underline;
 }
 #widget1 .Summary_Separator {
-    color: rgb(255, 255, 255);
+    color: rgb(88, 77, 77);
     font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 15px;
     font-stretch: normal;
@@ -197,7 +263,7 @@
     text-transform: none;
 }
 #widget1 .Summary_Body {
-    color: rgb(255, 255, 255);
+    color: rgb(88, 77, 77);
     font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 15px;
     font-stretch: normal;

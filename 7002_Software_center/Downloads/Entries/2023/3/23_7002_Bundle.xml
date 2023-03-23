@@ -5,10 +5,10 @@
     <richText>7002 &lt;b&gt;Software&lt;/b&gt;</richText>
   </textBox>
   <textBox id="generic-title-attributes" dynamic="no" visible="yes">
-    <richText>&lt;b&gt;Specifier&lt;/b&gt;</richText>
+    <richText>&lt;b&gt;7002 Bundle&lt;/b&gt;</richText>
   </textBox>
   <textBox id="generic-body-attributes" dynamic="no" visible="yes">
-    <richText>A simple program written in AppleScript that gives detailed information about your Mac. Ever realised that the Monterey "About This Mac" was lackluster. Which was made even more lackluster in macOS Ventura. Well this simple little applet which is easily configurable using the pre-installed Script Editor is for you. I hope everyone who uses this little application enjoys it!</richText>
+    <richText>A bundle with Specifier and website exclusives, such as:&#xD;Undamager, a piece of software that fixes the &#x201C;App is damaged error&#x201D; on certain applications&#xD;Revealer, a piece of software that shows hidden files on legacy versions of macOS, that do not support Command + .</richText>
   </textBox>
   <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
     <richText></richText>

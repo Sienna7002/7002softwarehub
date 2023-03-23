@@ -3,7 +3,7 @@
 setTransparentGifURL('../../../../Media/transparent.gif');function hostedOnDM()
 {return false;}
 function onPageLoad()
-{dynamicallyPopulate();loadMozillaCSS('22_Specifier_files/22_SpecifierMoz.css')
+{dynamicallyPopulate();loadMozillaCSS('23_Day_of_longboarding_files/23_Day_of_longboardingMoz.css')
 adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');adjustLineHeightIfTooBig('id2');adjustFontSizeIfTooBig('id2');adjustLineHeightIfTooBig('id3');adjustFontSizeIfTooBig('id3');Widget.onload();fixAllIEPNGs('../../../../Media/transparent.gif');performPostEffectsFixups()}
 function onPageUnload()
 {Widget.onunload();}
