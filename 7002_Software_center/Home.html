@@ -10,6 +10,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
     <meta name="viewport" content="width=700" />
     <title>Home</title>
+        <link href="https://fonts.googleapis.com/css2?family=Allura&family=Manrope:wght@200..800&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Ubuntu+Condensed&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" media="screen,print" href="Home_files/Home.css" />
     <!--[if lt IE 8]><link rel='stylesheet' type='text/css' media='screen,print' href='Home_files/HomeIE.css'/><![endif]-->
     <!--[if gte IE 8]><link rel='stylesheet' type='text/css' media='screen,print' href='Media/IE8.css'/><![endif]-->
@@ -17,6 +18,30 @@
     <script type="text/javascript" src="Scripts/Widgets/SharedResources/WidgetCommon.js"></script>
     <script type="text/javascript" src="Scripts/Widgets/Navbar/navbar.js"></script>
     <script type="text/javascript" src="Home_files/Home.js"></script>
+    <style>
+       .alert {
+        padding: 20px;
+        background-color: rgba(0, 0, 0, 0.59);
+        backdrop-filter: blur(10px);
+        color: white;
+        font-family: 'Ubuntu Condensed', regular;
+      }
+
+      .closebtn {
+        margin-left: 15px;
+        color: white;
+        font-weight: bold;
+        float: right;
+        font-size: 22px;
+        line-height: 20px;
+        cursor: pointer;
+        transition: 0.3s;
+      }
+
+      .closebtn:hover {
+        color: lime;
+      }
+    </style>
   </head>
   <body style="background: rgb(0, 0, 0); margin: 0pt; " onload="onPageLoad();" onunload="onPageUnload();">
     <div style="text-align: center; ">
@@ -54,6 +79,9 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
               <div class="style"></div>
             </div>
           </div>
+          <div class="alert">
+    <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> A new 7002 software hub experience is coming soon! Check out the beta <a href="https://sienna7002.github.io/7002softwarehubnebeta/">here</a>.
+  </div>
           
 
 
